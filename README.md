@@ -31,15 +31,15 @@ Computers have revolutionized modern society due to these fundamental attributes
 **Analytical Engine (1834):** Designed by Charles Babbage (the "Father of the Computer"), this steam-powered machine introduced the concepts of an adder, memory, and sequential program execution.
 ### The Five Generations of Digital Computing
 Modern electronic digital computers are categorized into five distinct generations based on the technological breakthrough that powered them:
-![Modern computer technology](https://unsplash.com)
+! [Modern computer technology](https://unsplash.com)
 # Project workflow Checklist
--[x] create the repository name Introduction to Computer
--[x] create a branch named after my roll number\name
--[x] Add detail about introduction to Computer 
--[x] Add detail about Types of Computer
--[x] Add detail about history of Computer
--[x] open a pull request from branch to main
--[x] Review hanges and merge the pull request into the main
+- [x] create the repository name Introduction to Computer
+- [x] create a branch named after my roll number\name
+- [x] Add detail about introduction to Computer 
+- [x] Add detail about Types of Computer
+- [x] Add detail about history of Computer
+- [x] open a pull request from branch to main
+- [x] Review changes and merge the pull request into the main
 
 # Computer classification Summary 
 |Criteria | Supercomputer | Mainframe computer |microcomputer |
