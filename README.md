@@ -1,8 +1,10 @@
 # Student Info:
-* **Name:Nandni birjani**
-* **Field:BSE-1C**
-* **Roll no:26k 3077**
-* ##  Project Overview & Purpose
+
+- **Name:Nandni birjani**
+- **Field:BSE-1C**
+- **Roll no:26k 3077**
+  
+ ##  Project Overview & Purpose
 This repository serves as a practical assignment to master the **Git and GitHub collaboration workflow**. The purpose of this project is to document foundational knowledge about computer systems while demonstrating proficiency in version control, branching, committing, and managing Pull Requests.
 
 
@@ -41,12 +43,14 @@ Modern electronic digital computers are categorized into five distinct generatio
 - [x] Review changes and merge the pull request into the main
 
 # Computer classification Summary 
-| Criteria | Supercomputer | Mainframe computer | microcomputer |
-|:--- |:--- |:---|
-| **Primary use** | scientific research | business transaction | Personal Task | 
-| **Speed** | Extremely Fast | Fast / High Volume | Standard |
-| **Cost** | Millions of Dollars | Hundreds of Thousands | Hundreds of Dollars |
-| **Example** | HPE Cray Frontier | IBM z16 | Apple MacBook / Laptop |
+
+| Computer Type | Primary Use | Example |
+| :--- | :--- | :--- |
+| **Supercomputer** | Weather Forecasting | Fugaku |
+| **Mainframe** | Banking Systems | IBM z16 |
+| **Microcomputer** | Personal Tasks | Laptop / PC |
+
+
 
 # Link
 (https://google.com)
