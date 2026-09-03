@@ -9,7 +9,7 @@ Computers have revolutionized modern society due to these fundamental attributes
 3. **Storage:** They have the capacity to store massive amounts of information in tiny digital physical spaces, allowing data to be retrieved instantly.
 4. **Diligence:** Unlike humans, computers do not suffer from tiredness, lack of concentration, or boredom, allowing them to perform repetitive tasks indefinitely.
 # Types of Computer
-***Supercomputers:*** The largest and fastest computers. They process massive amounts of data for complex tasks like weather forecasting and scientific research.
+***Supercomputers:*** The largest and fastest computers. They process massive amounts of data for complex tasks like weather forecasting and scientific research.* **Examples:** IBM Summit, Fugaku, and HPE Cray Frontier.
 ***Mainframe Computers:*** Large, powerful systems used by big organizations. They handle high-volume data processing, secure banking transactions, and enterprise operations.
 ***Minicomputers (Mid-range):*** Medium-sized computers that sit between mainframes and microcomputers. They support medium-scale business operations and industrial automation.
 # History of Computer
