@@ -32,7 +32,8 @@ Computers have revolutionized modern society due to these fundamental attributes
 **Analytical Engine (1834):** Designed by Charles Babbage (the "Father of the Computer"), this steam-powered machine introduced the concepts of an adder, memory, and sequential program execution.
 ### The Five Generations of Digital Computing
 Modern electronic digital computers are categorized into five distinct generations based on the technological breakthrough that powered them:
-! [Modern computer technology](https://unsplash.com)
+![Computer Workspace](https://unsplash.com)
+
 # Project workflow Checklist
 - [x] create the repository name Introduction to Computer
 - [x] create a branch named after my roll number\name
